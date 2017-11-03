@@ -15,4 +15,4 @@ to_search = 6 #Element to find
 L = 0 #Lower index of input
 H = len(ar) -1 #Highest index of list
 
-print( sorted(ar) , L , H , to_search )
+print(Interpolation( sorted(ar) , L , H , to_search ))
